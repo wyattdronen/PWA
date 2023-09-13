@@ -121,7 +121,4 @@ THEN I should have proper build scripts for a webpack application
 *   The Unit Ahead : Progressive Web Applications (PWA)
 *   Module 19 Mini-Project: Deploy Contact Directory App on Heroku with Script
 *   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
- 
-## License
-
-This project is licensed under the terms of the MIT license.
+*   MDN Web Docs : Using IndexedDB
